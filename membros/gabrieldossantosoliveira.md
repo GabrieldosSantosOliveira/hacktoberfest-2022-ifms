@@ -9,3 +9,7 @@ React/Next, React Native, Node, Javascript, Typescript, html e css
 ## Portfolio
 
 Os meus projetos podem ser visualizados no [GitHub](https://github.com/GabrieldosSantosOliveira)
+
+## Sonhos
+
+Tenho a vontade de apreender Ingles e também melhorar os meus conhecimentos nas tecnologias que eu já sei e aprender novas.
