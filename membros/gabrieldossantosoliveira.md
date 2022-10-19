@@ -17,3 +17,7 @@ Tenho a vontade de apreender Ingles e também melhorar os meus conhecimentos nas
 ## Expectativas
 
 Tenho expectativa de imigrar para o Canada para trabalhar com programação.
+
+## Sobre
+
+Gosto de assistir séries como Supernatural, The boys e Station 19, e jogar jogos de campanha.
