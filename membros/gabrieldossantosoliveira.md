@@ -13,3 +13,7 @@ Os meus projetos podem ser visualizados no [GitHub](https://github.com/Gabrieldo
 ## Sonhos
 
 Tenho a vontade de apreender Ingles e também melhorar os meus conhecimentos nas tecnologias que eu já sei e aprender novas.
+
+## Expectativas
+
+Tenho expectativa de imigrar para o Canada para trabalhar com programação.
